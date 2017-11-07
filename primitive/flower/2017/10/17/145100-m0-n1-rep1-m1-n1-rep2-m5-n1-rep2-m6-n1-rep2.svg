@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1024" height="768">
+<rect x="0" y="0" width="1024" height="768" fill="#929d99" />
+<g transform="scale(4.000000) translate(0.5 0.5)">
+<g transform="translate(176.889651 159.331420) rotate(-96.930310) scale(41.563372 251.514768)"><ellipse fill="#000259" fill-opacity="0.501961" cx="0" cy="0" rx="1" ry="1" /></g>
+<polygon fill="#ffffd4" fill-opacity="0.501961" points="271,5 -16,-16 3,146" />
+<polygon fill="#efe9c7" fill-opacity="0.501961" points="271,109 263,11 100,96" />
+<g transform="translate(105 121) rotate(10) scale(83 44)"><rect fill="#c99b00" fill-opacity="0.501961" x="-0.5" y="-0.5" width="1" height="1" /></g>
+<g transform="translate(133 172) rotate(-5) scale(83 44)"><rect fill="#00274b" fill-opacity="0.501961" x="-0.5" y="-0.5" width="1" height="1" /></g>
+<g transform="translate(225 171) rotate(79) scale(114 104)"><rect fill="#025099" fill-opacity="0.501961" x="-0.5" y="-0.5" width="1" height="1" /></g>
+<path stroke="#2a1c00" stroke-opacity="0.501961" fill="none" d="M 37.992146 192.868589 Q 95.939404 193.375902, 265.655529 164.586938" stroke-width="0.500000" />
+<path stroke="#322300" stroke-opacity="0.501961" fill="none" d="M 23.243808 199.076057 Q 95.939404 193.375902, 271.000000 165.224147" stroke-width="0.500000" />
+<path stroke="#2e1f00" stroke-opacity="0.501961" fill="none" d="M -16.000000 204.967338 Q 92.930958 189.267724, 244.158753 167.460725" stroke-width="0.500000" />
+</g>
+</svg>

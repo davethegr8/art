@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="4096" height="3072">
+<rect x="0" y="0" width="4096" height="3072" fill="#939d99" />
+<g transform="scale(4.000000) translate(0.5 0.5)">
+<rect fill="#000060" fill-opacity="0.501961" x="0" y="750" width="1024" height="5" />
+<rect fill="#000045" fill-opacity="0.501961" x="0" y="677" width="1024" height="5" />
+<rect fill="#000049" fill-opacity="0.501961" x="5" y="640" width="721" height="5" />
+<rect fill="#000061" fill-opacity="0.501961" x="0" y="745" width="1024" height="5" />
+<rect fill="#00004b" fill-opacity="0.501961" x="17" y="682" width="1007" height="5" />
+<rect fill="#00005d" fill-opacity="0.501961" x="19" y="735" width="1005" height="5" />
+<rect fill="#00004f" fill-opacity="0.501961" x="212" y="710" width="812" height="5" />
+<rect fill="#000051" fill-opacity="0.501961" x="207" y="730" width="781" height="5" />
+<rect fill="#00002a" fill-opacity="0.501961" x="454" y="719" width="446" height="5" />
+<rect fill="#000063" fill-opacity="0.501961" x="0" y="756" width="1024" height="5" />
+<rect fill="#000047" fill-opacity="0.501961" x="332" y="705" width="692" height="5" />
+<rect fill="#00004b" fill-opacity="0.501961" x="0" y="667" width="692" height="5" />
+<rect fill="#00005c" fill-opacity="0.501961" x="166" y="699" width="858" height="5" />
+<rect fill="#000056" fill-opacity="0.501961" x="187" y="645" width="737" height="5" />
+<rect fill="#00004e" fill-opacity="0.501961" x="36" y="672" width="944" height="5" />
+<rect fill="#000031" fill-opacity="0.501961" x="86" y="650" width="516" height="5" />
+</g>
+</svg>

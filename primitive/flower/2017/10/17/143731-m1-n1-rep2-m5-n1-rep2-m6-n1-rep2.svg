@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1024" height="768">
+<rect x="0" y="0" width="1024" height="768" fill="#929d99" />
+<g transform="scale(4.000000) translate(0.5 0.5)">
+<polygon fill="#00005d" fill-opacity="0.501961" points="252,207 270,97 -16,174" />
+<g transform="translate(127 46) rotate(2) scale(255 120)"><rect fill="#fffccf" fill-opacity="0.501961" x="-0.5" y="-0.5" width="1" height="1" /></g>
+<g transform="translate(83 41) rotate(-20) scale(241 136)"><rect fill="#dbd5b6" fill-opacity="0.501961" x="-0.5" y="-0.5" width="1" height="1" /></g>
+<g transform="translate(42 23) rotate(-49) scale(216 122)"><rect fill="#dadac4" fill-opacity="0.501961" x="-0.5" y="-0.5" width="1" height="1" /></g>
+<path stroke="#161f03" stroke-opacity="0.501961" fill="none" d="M -16.000000 147.831122 Q 177.239153 121.889837, 206.553478 114.240681" stroke-width="0.500000" />
+<path stroke="#001b4b" stroke-opacity="0.501961" fill="none" d="M -16.000000 164.724844 Q 181.655895 121.086452, 202.598315 115.386539" stroke-width="0.500000" />
+<path stroke="#002657" stroke-opacity="0.501961" fill="none" d="M -12.359321 173.593410 Q 229.555924 91.831336, 240.946496 129.122232" stroke-width="0.500000" />
+</g>
+</svg>
