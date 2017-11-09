@@ -40,8 +40,14 @@ $params = [
 	// '-m 5 -n 32',
 	// '-m 2 -n 4096',
 	// "-m {$mode} -n 1024 -rep 3",
-	"-m {$hline} -n 16",
-	"-m {$vline} -n 16",
+	"-m {$hline} -n 256",
+	"-m {$vline} -n 256",
+	"-m {$hline} -n 256",
+	"-m {$vline} -n 256",
+	"-m {$hline} -n 256",
+	"-m {$vline} -n 256",
+	"-m {$hline} -n 256",
+	"-m {$vline} -n 256",
 	// '-m 5 -n 128',
 	// '-m 6 -n 4096'
 	// '-m 0 -n 64 -rep 256'
